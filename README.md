@@ -4,7 +4,7 @@ Triggerbot for game "Rogue Company" that doesn't need an injection and is undete
 ## Features
 - Triggerbot *(2 variants)*
 - Config with key definitions
-- Simple text GUI
+- Simple text UI
 - Fast detection
 - Bugs, much of them
  
